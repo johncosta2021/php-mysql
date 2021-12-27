@@ -1,0 +1,10 @@
+div{
+    margin: 0 auto;
+    background-color: aqua;
+    width: 500px;
+    padding: 30px;
+    height: 350px;
+}
+body{
+    background-image: linear-gradient(to right,blue, aqua, white);
+}
